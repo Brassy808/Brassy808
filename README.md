@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brassy808
-- 👀 I’m interested in progrmming & beatmaking
+- 👀 I’m interested in programming & beatmaking
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me vovan.yeahboy@gmail.com
 - 😄 Pronouns: he/him
