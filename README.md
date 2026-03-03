@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me vovan.yeahboy@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... kakaski!!!
 
 <!---
 Brassy808/Brassy808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
